@@ -1,0 +1,69 @@
+# ZAYN – Die For Me
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Good times and bad times,
+I gave you my everything
+I tried and I tried to love you
+through anything
+Swore to each other
+we'd never be enemies
+Why the fuck would you say that to me?
+Ain't nothing worse than somebody who
+Lies to your face
+and then swears it's the truth
+If you have a heart,
+rip it up, let it bleed
+'Cause you said you would die for me
+Said you would die for me
+Said you would die for me
+Don't leave me now
+when I need you the most
+Gave you my heart,
+don't you dare let it go
+Said you would die for me
+Said you would die for me (Ooh)
+Don't leave me now
+when I need you the most
+Said you would die for me
+Said you'd never, never let me go
+2 a.m., you ain't home
+Called your friends,
+said you're gone
+I'm not gonna wait up here
+But go ahead and stay out there
+Oh-ooh, I'll sleep just fine
+without you
+Yeah, yeah, yeah
+Ain't nothing worse than somebody who
+Lies to your face
+and then swears it's the truth
+"I love you, I love you",
+you said it loud
+Those the three words you go
+spitting out
+You told me you love me,
+where are you now?
+(Where are you now?)
+Said you would die for me
+Said you would die for me (Ooh)
+Don't leave me now,
+when I need you the most
+Gave you my heart,
+don't you dare let it go
+Said you would die for me
+Said you would die for me (Ooh)
+Don't leave me now
+when I need you the most
+Said you would die for me
+Said you'd never, never let me go
+Oh, die for me
+Oh-oh-oh
+Said you would die for me
+Said you would die for me
+Don't leave me now
+when I need you the most
+Said you would die for me
+Said you'd never, never let me go
+```
