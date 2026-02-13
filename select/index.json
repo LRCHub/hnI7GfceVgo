@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Die For Me",
+  "base_artist": "ZAYN",
+  "createdAt": "2026-02-13T07:46:17.445049Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Would You Die for Me",
+      "artist": "So",
+      "has_synced": false,
+      "path": "select/01_Would_You_Die_for_Me_So.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Die for Me Only (Black Widow)",
+      "artist": "Lita Ford",
+      "has_synced": true,
+      "path": "select/02_Die_for_Me_Only_(Black_Widow)_Lita_Ford.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Die For Me (feat. Future & Halsey)",
+      "artist": "Post Malone feat. Halsey & Future",
+      "has_synced": true,
+      "path": "select/03_Die_For_Me_(feat._Future_&_Halsey)_Post_Malone_feat._Halsey_&_Future.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Die for Me (feat. Future & Halsey)",
+      "artist": "Post Malone",
+      "has_synced": true,
+      "path": "select/04_Die_for_Me_(feat._Future_&_Halsey)_Post_Malone.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Die For Me",
+      "artist": "Post Malone",
+      "has_synced": true,
+      "path": "select/05_Die_For_Me_Post_Malone.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Die For Me (feat. Future & Halsey)",
+      "artist": "Post Malone feat. Future & Halsey",
+      "has_synced": true,
+      "path": "select/06_Die_For_Me_(feat._Future_&_Halsey)_Post_Malone_feat._Future_&_Halsey.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Die For Me",
+      "artist": "Post Malone, Future, Halsey",
+      "has_synced": true,
+      "path": "select/07_Die_For_Me_Post_Malone,_Future,_Halsey.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Die For Me",
+      "artist": "Post Malone, Halsey, Future",
+      "has_synced": true,
+      "path": "select/08_Die_For_Me_Post_Malone,_Halsey,_Future.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Would You Die for Me",
+      "artist": "The Notorious B.I.G.",
+      "has_synced": false,
+      "path": "select/09_Would_You_Die_for_Me_The_Notorious_B.I.G..txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Would You Die for Me (feat. Lil' Kim & Puff Daddy) - 2005 Remaster",
+      "artist": "The Notorious B.I.G.",
+      "has_synced": true,
+      "path": "select/10_Would_You_Die_for_Me_(feat._Lil'_Kim_&_Puff_Daddy)_-_2005_Remaster_The_Notorious_B.I.G..lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Would You Die for Me (feat. Lil' Kim & Puff Daddy)",
+      "artist": "The Notorious B.I.G.",
+      "has_synced": true,
+      "path": "select/11_Would_You_Die_for_Me_(feat._Lil'_Kim_&_Puff_Daddy)_The_Notorious_B.I.G..lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Die For Me (feat. Future & Halsey)",
+      "artist": "Post Malone/Halsey/Future",
+      "has_synced": true,
+      "path": "select/12_Die_For_Me_(feat._Future_&_Halsey)_Post_Malone_Halsey_Future.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Die for Me",
+      "artist": "Post Malone feat. Future & Halsey",
+      "has_synced": true,
+      "path": "select/13_Die_for_Me_Post_Malone_feat._Future_&_Halsey.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Die for Me",
+      "artist": "Ocean Dark",
+      "has_synced": false,
+      "path": "select/14_Die_for_Me_Ocean_Dark.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Would You Die For Me",
+      "artist": "Notorious B.I.G.",
+      "has_synced": false,
+      "path": "select/15_Would_You_Die_For_Me_Notorious_B.I.G..txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Would You Die for Me",
+      "artist": "The Notorious B.I.G. featuring Lil' Kim & Puff Daddy",
+      "has_synced": true,
+      "path": "select/16_Would_You_Die_for_Me_The_Notorious_B.I.G._featuring_Lil'_Kim_&_Puff_Daddy.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Die for Me (ft. Future & Halsey)",
+      "artist": "Post Malone",
+      "has_synced": true,
+      "path": "select/17_Die_for_Me_(ft._Future_&_Halsey)_Post_Malone.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Die For Me",
+      "artist": "T.S.O.L.",
+      "has_synced": true,
+      "path": "select/18_Die_For_Me_T.S.O.L..lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Die for Me",
+      "artist": "My Own Private Alaska",
+      "has_synced": false,
+      "path": "select/19_Die_for_Me_My_Own_Private_Alaska.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Die For Me",
+      "artist": "ZAYN",
+      "has_synced": false,
+      "path": "select/pl_01_Die_For_Me_ZAYN.txt"
+    }
+  ]
+}
